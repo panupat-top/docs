@@ -1,8 +1,10 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  lang: 'en-US',
+  // If you plan to deploy your site to https://foo.github.io/bar/, then you should set base to '/bar/'.
   base: '/docs/',
+
+  lang: 'en-US',
   title: 'panupat-docs',
   description: 'A VitePress Site',
   themeConfig: {
