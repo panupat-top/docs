@@ -1,6 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  lang: 'en-US',
+  base: '/docs/',
   title: 'panupat-docs',
   description: 'A VitePress Site',
   themeConfig: {
