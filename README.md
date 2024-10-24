@@ -1,11 +1,19 @@
-# VitePress
+# Panupat Docs
 
-VitePress is a Vue-powered static site generator and a spiritual successor to [VuePress](https://vuepress.vuejs.org), built on top of [Vite](https://github.com/vitejs/vite).
+Developer Guide Documentation
+
+## Preview
+
+You can preview the live version of the documentation at [Preview](https://panupat-top.github.io/docs/).
 
 ## Getting Started
 
-First, run the development server:
+To start the development server, run the following command:
 
 ```bash
 pnpm run docs:dev
 ```
+
+## Documentation
+
+For more detailed information, visit the [official VitePress documentation](https://vitepress.vuejs.org/).
